@@ -1,0 +1,10 @@
+My Python exercises (to-do list)
+================================
+
+1) Program to find even and odd numbers (DONE)
+2) Program to find prime numbers in a given range (DONE)
+3) Program to find the number of words in a string
+4) Program to find a specific word in a given string
+5) Find if a given number/string is a palindrome
+6) Find armstrong numbers in a given range(DONE)
+7) 
